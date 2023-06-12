@@ -27,5 +27,6 @@ public class HomeController {
         DBManager.addStudent(student);
         return "redirect:/";
     }
+    //
 
 }
